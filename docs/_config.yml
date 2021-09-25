@@ -1,7 +1,7 @@
-repository: {minha12}/{card_game}
+repository: minha12/card_game
 output: web
-topnav_title: {card_game}
-site_title: {card_game}
+topnav_title: card_game
+site_title: card_game
 company_name: Minh-Ha
 description: An example of nbdev
 # Set to false to disable KaTeX math
